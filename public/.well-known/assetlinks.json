@@ -1,0 +1,12 @@
+[
+  {
+    "relation": ["delegate_permission/common.handle_all_urls"],
+    "target": {
+      "namespace": "android_app",
+      "package_name": "com.example.wams_user",
+      "sha256_cert_fingerprints": [
+        "46:69:9B:D2:A6:27:CC:FC:AE:2E:7D:75:2A:E0:87:0C:68:F4:8A:97:B3:BA:C4:5C:D1:5C:D9:08:17:9D:9D:42"
+      ]
+    }
+  }
+]
